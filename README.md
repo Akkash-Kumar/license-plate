@@ -9,3 +9,4 @@ Python libraries to install:
 
 -> We use Canny Edge detection which is popular image processing technique to find edges in images.
 
+-> Use any car image to test.
